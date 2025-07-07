@@ -62,6 +62,7 @@ npm install
 # Run the frontend
 npm start
 
+---
 
 ## 📁 Folder Structure
 wanderlust/
@@ -80,6 +81,7 @@ wanderlust/
 │
 └── README.md
 
+---
 
 ## 🔐 Environment Variables (.env)
 MONGODB_URI=your_mongodb_connection_string
@@ -89,11 +91,14 @@ CLOUDINARY_CLOUD_NAME=your_cloudinary_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_secret
 
+---
 
 ## 🚀 Deployment
 - Frontend: Netlify, Vercel
 - Backend: Render, 
 - Database: MongoDB Atlas
+
+---
 
 ## ✅ Future Improvements
 - Add a Booking System
@@ -102,14 +107,22 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 - Pagination & Sorting
 - Email Notifications
 
+---
+
 ## 📸 Demo
 🔗 Live Demo Link (if hosted)
 
+---
+
 ## 🤝 Contributing
 Contributions are welcome! Please open issues or submit pull requests for improvements or feature requests.
+
+---
 
 ## 🙌 Acknowledgements
 - Inspired by Airbnb UI
 - Map data by Mapbox
 - Built with ❤️ using MERN stack
+
+---
 
