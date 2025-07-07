@@ -61,7 +61,7 @@ npm install
 
 # Run the frontend
 npm start
-````markdown
+```
 
 ---
 
