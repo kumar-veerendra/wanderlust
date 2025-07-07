@@ -66,21 +66,20 @@ npm start
 ---
 
 ## 📁 Folder Structure
+
 wanderlust/
-│
 ├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── server.js
-│
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ └── server.js
 ├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-│
+│ └── src/
+│ ├── components/
+│ ├── pages/
+│ └── App.js
 └── README.md
+
 
 ---
 
